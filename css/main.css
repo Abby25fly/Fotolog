@@ -55,15 +55,7 @@ textarea, input{
 .posteo hr {
   border: 1px solid DeepPink;
 }
-/* PARA CORAZON */
-.corazon {
-  font-size: 40px;
-  color: gray;
-  text-align: center;
-}
-.rojo {
-  color: red;
-}
+
 footer{
   padding: 10px;
 }
@@ -71,3 +63,9 @@ footer{
 
 
 /* Estilos comentarios */
+.textComent{
+  background-color: white;
+  border-radius: 5px;
+  border-color: black;
+  padding: 10px 20px;
+}
